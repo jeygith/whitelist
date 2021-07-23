@@ -198,6 +198,7 @@
 (0, 'open.spotify.com', 1, 'spotify whitelist - qjz9zk')
 (0, 'login5.spotify.com', 1, 'spotify whitelist - qjz9zk')
 (0, 'i.scdn.co', 1, 'spotify whitelist - qjz9zk')
+(0, 'open.scdn.co', 1, 'spotify whitelist - qjz9zk')
 (0, 'newjams-images.scdn.co', 1, 'spotify whitelist - qjz9zk')
 (0, 'dailymix-images.scdn.co', 1, 'spotify whitelist - qjz9zk')
 (0, 'lineup-images.scdn.co', 1, 'spotify whitelist - qjz9zk')
